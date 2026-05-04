@@ -149,7 +149,6 @@ MIT License
 ## Team
 
 - [Bamilosin Daniel Eniola](https://github.com/itsjustdannyb)
-- [Peter Godbless](https://github.com/peterwhitehat142)
 
 ## Acknowledge
 

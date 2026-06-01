@@ -7,6 +7,10 @@ Havilah detects kidney stones in CT scans using a finetuned Facebook's Detection
 
 The app is available [here](https://datican-test.netlify.app)
 
+## Extended Abstract (written on Oct. 7, 2025)
+
+The abstract is available [here](https://drive.google.com/file/d/1fBfiFzf0U54E02YgR8QX-gM2mDOvpgaS/view)
+
 ## Test Images
 
 Download these sample images to test the model (available in media folder):
